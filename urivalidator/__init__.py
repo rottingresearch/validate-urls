@@ -27,13 +27,13 @@ linkrot can be used to extract infos from PDF in two ways:
 https://github.com/rottingresearch/linkrot
 
 Copyright (c) 2023, Marshal Miller <marshal@rottingresearch.org>
-License: MIT (see LICENSE for details)
+License: GPLv3 (see LICENSE for details)
 """
 
-__title__ = "linkrot"
-__version__ = "3.9.9"
+__title__ = "validate-urls"
+__version__ = "0.01"
 __author__ = "Marshal Miller"
-__license__ = "MIT"
+__license__ = "GPLv3"
 __copyright__ = "Copyright 2023, Marshal Miller"
 
 import os
