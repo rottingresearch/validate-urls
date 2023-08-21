@@ -7,7 +7,7 @@ on:
 
 jobs:
   pypi-build-n-publish:
-    name: urivalidator
+    name: valid-uri
     runs-on: [ubuntu-latest]
     steps:
     - uses: actions/checkout@master
